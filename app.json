@@ -1,12 +1,11 @@
 {
   "pages":[
-    "pages/index/index",
-    "pages/logs/logs"
+    "mypages/flex/flex"
   ],
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
+    "navigationBarTitleText": "mydome",
     "navigationBarTextStyle":"black"
   }
 }
