@@ -1,5 +1,5 @@
 .flex-item{
-	height:30px;
-	width:30px;
+	height:200rpx;
+	width:200rpx;
 	background:green;
 }
