@@ -1,1 +1,12 @@
-fa
+<view class="container">
+    <block wx:for="{{arrList}}">
+        <view class="item">
+            <text>{{item}}</text>
+        </view>
+    </block>
+    <block v:if="{{arrList.length == 0}}">
+         <view class="item">
+              <text>下拉加载数据</text>
+          </view>
+    </block>
+</view>
