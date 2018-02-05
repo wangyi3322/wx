@@ -1,5 +1,13 @@
+.warp{
+  display: flex;
+
+}
 .flex-item{
 	height:200rpx;
 	width:200rpx;
-	background:green;
+  line-height: 200rpx;
+  flex: 1;
+  text-align: center;
+  margin: 20rpx;
+  background:pink;
 }

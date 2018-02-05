@@ -4,8 +4,8 @@
     "mypages/list/list"
   ],
   "window":{
-    "backgroundTextStyle":"#09ba07",
-    "navigationBarBackgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#09ba07", 
+ 
     "navigationBarTitleText": "mydome",
     "navigationBarTextStyle":"black"
   },

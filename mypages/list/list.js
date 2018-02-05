@@ -1,4 +1,5 @@
 Page({
+<<<<<<< HEAD
   data:{
       listArr = []
   },
@@ -17,4 +18,10 @@ Page({
       if(length >= 30 ) return [];
       return Array.from({length: 3},(v, i)=>`数据${1+i+length}`)
   }
+=======
+  onReachBottom(){
+    console.log('1');
+  }
+
+>>>>>>> f4d393bc802279ce71d3bb077ae9093c0f05b574
 })
