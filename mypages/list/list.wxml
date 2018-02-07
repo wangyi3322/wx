@@ -1,5 +1,20 @@
+<<<<<<< HEAD
   <view class='wrap'>
     <view class="list">1</view>
     <view class="list">2</view>
     <view class="list">3</view>
   </view>
+=======
+<view class="container">
+    <block wx:for="{{arrList}}">
+        <view class="item">
+            <text>{{item}}</text>
+        </view>
+    </block>
+    <block v:if="{{arrList.length == 0}}">
+         <view class="item">
+              <text>下拉加载数据</text>
+          </view>
+    </block>
+</view>
+>>>>>>> 3db48f69f96f2f79c6049e1406fd49021c0106f9
