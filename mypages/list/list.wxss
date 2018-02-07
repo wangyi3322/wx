@@ -1,0 +1,7 @@
+.list{
+  background: #eee;
+  color: #333;
+  text-align: center;
+  margin: 10rpx 0;
+  padding: 10repx 0; 
+}

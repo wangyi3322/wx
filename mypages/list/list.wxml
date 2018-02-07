@@ -1,1 +1,5 @@
-fa
+  <view class='wrap'>
+    <view class="list">1</view>
+    <view class="list">2</view>
+    <view class="list">3</view>
+  </view>
